@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="myGreenLight">#4BD9A4</color>
+    <color name="myGreenDark">#04B79C</color>
+
+    <color name="statusGood">#4CAF50</color>
+    <color name="statusModerate">#FFC107</color>
+    <color name="statusBad">#F44336</color>
+
+    <color name="background_color">#F0F4F8</color>
+    <color name="text_color_primary">#212121</color>
+    <color name="text_color_secondary">#757575</color>
+</resources>
