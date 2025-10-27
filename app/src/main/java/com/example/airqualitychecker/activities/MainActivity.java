@@ -144,7 +144,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onFailure(Call<AirQualityResponse> call, Throwable t) {
                 binding.progressBar.setVisibility(View.GONE);
-                Toast.makeText(MainActivity.this, "Ocorreu um Erro: " + t.getMessage(), Toast.LENGTH_SHORT).show();
+                Toast.makeText(MainActivity.this, "Ocorreu um Erro!" + t.getMessage(), Toast.LENGTH_SHORT).show();
             }
         });
     }
